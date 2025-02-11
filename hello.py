@@ -1,4 +1,4 @@
-import prefect
+from prefect import flow
 import pandas
 import os
 
